@@ -9,3 +9,4 @@ In this repository, we provide the implementation of the OCVF optimization pipel
  (BTO) as a representative case, the workflow demonstrates how OCVF can successfully correct deficiencies in the prior model and recover the physically correct phase-transition sequence. The repository is intended not only to support reproducibility of the present work, but also to serve as a starting point for applying observable-constrained correction strategies to other complex many-body materials systems.
 
 We hope this resource will be useful for researchers working in computational materials science, multiscale modeling, effective Hamiltonians, phase transitions, and physics-informed machine learning.
+As some of the source data files are temporarily unavailable to the public, please visit the following link if needed: [Data_origen.zip link: https://pan.baidu.com/s/1LJPwooOxAYdl2J3BBeDc6g code: 52mi]
